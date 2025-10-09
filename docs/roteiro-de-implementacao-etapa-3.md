@@ -1,7 +1,7 @@
 # Roteiro Implementação.
-* Implementar mais duas API's REST conectada ao banco de dados que realize as operações de CRUD.
-* Implementar testes de unidade para cada operação CRUD para as duas novas API's REST.
-* Implementar as interface com o usuário simples que utilize as duas novas API's REST (e também para a API da segunda etapa).
+* Implementar mais API's (uma para cada aluno do grupo) REST conectada ao banco de dados que realize as operações de CRUD.
+* Implementar testes de unidade para cada operação CRUD para as novas API's REST.
+* Implementar as interface com o usuário simples que utilize as novas API's REST (e também para a API da segunda etapa).
 * Implemente uma API REST e testes de unidade para gerenciamento dos usuários do sistema.
 * Implementar uma página de autenticação e autorização do sistema
 
