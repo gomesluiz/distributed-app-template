@@ -6,12 +6,12 @@
 * Implementar uma página de autenticação e autorização do sistema.
 
 ## Orientações gerais.
-* As APIs devem ser implementadas na linguagem C# usando o framework .NET Core.
+* As APIs devem ser desenvolvidas em C# utilizando o framework .NET Core.
 * Os dados da aplicação devem ser armazenados em um banco de dados relacional.
-* O frontend deverá se comunicar com o backend via API REST para o conteúdo não estático.
-* O código do projeto deve ser armazenado na pasta "src" do repositório.
-* O código do front-end deverá ser criado na pasta "src" e do back-end na pasta "src"
-* O código deverá executar corretamente no ambiente de desenvolvimento, testes e produção.
+* O frontend deve se comunicar com o backend por meio de API REST para conteúdo dinâmico.
+* O código do projeto deve ser armazenado na pasta src do repositório.
+* O código do frontend e do backend deverá ser criado na pasta src.
+* O código deve funcionar corretamente nos ambientes de desenvolvimento, testes e produção.
 
 
 
