@@ -1,9 +1,9 @@
 # Roteiro Implementação.
-* Implementar mais API's (uma para cada aluno do grupo) REST conectada ao banco de dados que realize as operações de CRUD.
-* Implementar testes de unidade para cada operação CRUD para as novas API's REST.
-* Implementar as interface com o usuário simples que utilize as novas API's REST (e também para a API da segunda etapa).
-* Implemente uma API REST e testes de unidade para gerenciamento dos usuários do sistema.
-* Implementar uma página de autenticação e autorização do sistema
+* Desenvolver mais APIs REST (uma por aluno) conectadas ao banco de dados para realizar operações de CRUD.
+* Implementar testes unitários para cada operação CRUD dessas novas APIs REST.
+* Criar uma interface simples para o usuário que consuma as novas APIs REST (e também a API da segunda etapa).
+* Desenvolver uma API REST e testes unitários para o gerenciamento dos usuários do sistema.
+* Implementar uma página de autenticação e autorização do sistema.
 
 ## Orientações gerais.
 * As APIs devem ser implementadas na linguagem C# usando o framework .NET Core.
